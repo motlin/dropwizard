@@ -38,6 +38,7 @@ public class EventJsonLayoutTest {
             EventAttribute.LEVEL,
             EventAttribute.THREAD_NAME,
             EventAttribute.MDC,
+            EventAttribute.MARKER,
             EventAttribute.LOGGER_NAME,
             EventAttribute.MESSAGE,
             EventAttribute.EXCEPTION,
